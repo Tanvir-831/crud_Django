@@ -55,8 +55,8 @@ This is a Django-based CRUD (Create, Read, Update, Delete) application. It serve
 
 ## Project Structure
 
-- `myapp/`: The main Django app containing models, views, templates, and URLs.
-- `myproject/`: The Django project configuration containing settings and URLs.
+- `newapp/`: The main Django app containing models, views, templates, and URLs.
+- `mypro/`: The Django project configuration containing settings and URLs.
 - `templates/`: HTML templates for the app.
 - `static/`: Static files (CSS, JavaScript, images).
 - `requirements.txt`: A list of Python dependencies.
